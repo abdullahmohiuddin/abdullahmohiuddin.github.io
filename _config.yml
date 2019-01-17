@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Abdullah Mohiuddin / Academic profile"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Engr Abdullah Mohiuddin"
+description              : &description "Ph.D Candidate in Mechanical Engineering Khalifa University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Abdullah Mohiuddin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "{Abdullah Mohiuddin}is currently a PhD candidate in Khalifa University of Science and Technology. He received his Master's in Sustainable Environment and Energy Systems form Middle East Technical University Turkey. His research interests include single and multi-UAV aerial manipulation"
+  location         : "Abu Dhabi UAE"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ae/citations?hl=en&authuser=1&user=GNUkq3oAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Abdullah_Mohiuddin2"
   uri              :
   bitbucket        :
   codepen          :
