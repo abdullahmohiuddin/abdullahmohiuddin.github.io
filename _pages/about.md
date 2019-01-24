@@ -7,5 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the profile of Ph.D Candidate Abdullah Mohiuddin
+{Abdullah Mohiuddin}is currently a PhD candidate in Khalifa University of Science and Technology. He received his Master's in Sustainable Environment and Energy Systems form Middle East Technical University Turkey. His research interests include single and multi-UAV aerial manipulation
