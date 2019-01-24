@@ -23,3 +23,6 @@ The project focusses on the energy aspects of dual UAV collaborative transport. 
 3) Application of Realtime Dynamic Programming in Velocity optimization of dual UAV Collaborative aerial manipulation.
 
 ![](/images/expdetails.png)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ypg1YpNjp8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
