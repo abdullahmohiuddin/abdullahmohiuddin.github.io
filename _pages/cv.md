@@ -15,6 +15,8 @@ Education
 * M.S. in Sustainable Environment and Energy Systems, Middle East Technical University, 2015
 * Ph.D in Mechanical Engineering, Khalifa University, 2019 (expected)
 
+<iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?member_badge_id=17506764" width="180" height="230"></iframe>
+
 Work experience
 ======
 * 2010-2012: Trainee Engineer
