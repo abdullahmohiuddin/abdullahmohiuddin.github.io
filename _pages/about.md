@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Abdullah Mohiuddin"
+title: "Abdullah Mohiuddin Ph.D"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Abdullah Mohiuddin is currently a PhD candidate in Khalifa University of Science and Technology. He received his Master's in Sustainable Environment and Energy Systems form Middle East Technical University Turkey. His research interests include single and multi-UAV aerial manipulation
+Abdullah Mohiuddin graduated from Khalifa University of Science and Technology in Ph.D in Engineering program with a specialiazation in Mechanical Engineering in 2019. He received his Master's in Sustainable Environment and Energy Systems form Middle East Technical University Turkey in 2015. His research interests include single and multi-UAV aerial manipulation.
 
 Project Overview
 ======
