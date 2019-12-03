@@ -9,12 +9,12 @@ redirect_from:
 ---
 Abdullah Mohiuddin graduated from Khalifa University of Science and Technology in Ph.D in Engineering program with a specialiazation in Mechanical Engineering in 2019. He received his Master's in Sustainable Environment and Energy Systems form Middle East Technical University Turkey in 2015. His research interests include single and multi-UAV aerial manipulation.
 
-Project Overview
+Research Experiences
 ======
 
 **Dual UAV collaborative aerial manipulation**
 
-June 2016 – Present
+June 2016 – October 2019
 
 The project focusses on the energy aspects of dual UAV collaborative transport. The contributions are threefold
 
