@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdullah Mohiuddin / Academic profile"
+title                    : "Dr. Abdullah Mohiuddin / Academic profile"
 title_separator          : "-"
-name                     : &name "Engr Abdullah Mohiuddin"
-description              : &description "Ph.D Candidate in Mechanical Engineering Khalifa University"
+name                     : &name "Dr. Abdullah Mohiuddin"
+description              : &description "Ph.D (Mechanical Engineering Khalifa University)"
 url                      : https://abdullahmohiuddin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdullahmohiuddin/abdullahmohiuddin.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdullah Mohiuddin"
+  name             : "Dr. Abdullah Mohiuddin"
   avatar           : "profile.png"
-  bio              : "PhD candidate and Teaching Assistant in Khalifa University of Science and Technology."
+  bio              : "Ph.D (Khalifa University of Science and Technology)"
   location         : "Abu Dhabi UAE"
   employer         :
   googlescholar    : "https://scholar.google.ae/citations?hl=en&authuser=1&user=GNUkq3oAAAAJ"
